@@ -17,7 +17,9 @@
   "live_url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
   "categorie": "GENERALISTE"
-  },
+  }
+}
+
    "2":{
   "id": "2",
   "name": "KEUR NDANANE TV",
