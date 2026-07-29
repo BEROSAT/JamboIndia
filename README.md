@@ -8,7 +8,9 @@
   "live_url":"https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
   "categorie":"GENERALISTE"
-  },
+  }
+}
+
   "1":{
   "id": "1",
   "name": "EVI TV",
@@ -18,7 +20,7 @@
   "thumbnail": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
   "categorie": "GENERALISTE"
   }
-}
+
 
    "2":{
   "id": "2",
@@ -344,4 +346,3 @@
   "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
   "categorie": "SPORTS"
   }
-}
